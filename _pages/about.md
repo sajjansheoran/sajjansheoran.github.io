@@ -6,5 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Note: Site under construction. This may take some time.
 ======
