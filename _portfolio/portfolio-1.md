@@ -1,6 +1,6 @@
 ---
 title: "Magnetism in 2D materials"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/AM.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/AM.png' | width=60 >"
 collection: portfolio
 ---
 
