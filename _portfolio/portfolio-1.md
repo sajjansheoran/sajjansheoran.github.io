@@ -1,6 +1,6 @@
 ---
 title: "Magnetism in 2D materials"
-excerpt: "2D vdW magnetic materials have garnered significant attention in scientific research 1<br/><img src='/images/AM.png' | width=60 >"
+excerpt: "Different fundamental phases of Magnetism 1<br/><img src='/images/AM.png' | width=60 >"
 collection: portfolio
 ---
 
