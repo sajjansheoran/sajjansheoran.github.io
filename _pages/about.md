@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,4 +10,5 @@ I am a PhD candidate at the <a rel="external nofollow" href="https://www.iitd.ac
 
 I received a Master of Science (M.Sc.) degree in Physics from the <a rel="external nofollow" href="http://www.iitgn.ac.in/" target="_blank">Indian Institute of Technology Gandhinagar, Gujarat, India</a> (one of the newer IITs in India) in 2019, and a Bachelor of Science (B.Sc.) degree in Physics from the <a rel="external nofollow" href="http://www.du.ac.in" target="_blank">University of Delhi, India</a> in 2017. I am a *Silver Medalist* in M.Sc. for my academic performance.
 
-Apart from academics, I follow Indian politics and cricket (other sports as well).
+Website is under construction.
+===
