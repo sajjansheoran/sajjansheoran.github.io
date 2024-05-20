@@ -25,17 +25,17 @@ author:
   name             : "Sajjan Sheroan"
   pronouns         : # example: "she/her"  
   bio              : "Research enthusiast"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Delhi"
+  employer         : "Indian Institute of Technology Delhi"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sajjans36@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : https://arxiv.org/search/cond-mat?searchtype=author&query=Sheoran,+S
   googlescholar    : "https://scholar.google.com/citations?user=WRS8FWYAAAAJ&hl=en"
-  impactstory      : # URL
+  impactstory      : 
   orcid            : "https://orcid.org/0000-0002-6816-3944"
-  semantic         : # URL
+  semantic         : 
   pubmed           :  
   researchgate     :  "https://www.researchgate.net/profile/Sajjan-Sheoran-2"
 
@@ -43,13 +43,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "sajjans36"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : https://www.facebook.com/sheoran.sajjan/
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/sajjan-sheoran-8640a816a/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
