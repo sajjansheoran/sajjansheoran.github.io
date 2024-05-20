@@ -28,15 +28,15 @@ author:
   location         : "Delhi"
   employer         : "IIT Delhi"
   uri              : # URL
-  email            : "sajjans36@gmail.com" 
+  email            : "sajjans36@gmail.com"
 
   # Academic websites
   arxiv            : https://arxiv.org/search/cond-mat?searchtype=author&query=Sheoran,+S
   googlescholar    : "https://scholar.google.com/citations?user=WRS8FWYAAAAJ&hl=en"
-  impactstory      : 
+  impactstory      :
   orcid            : "https://orcid.org/0000-0002-6816-3944"
-  semantic         : 
-  pubmed           :  
+  semantic         :
+  pubmed           :
   researchgate     :  "https://www.researchgate.net/profile/Sajjan-Sheoran-2"
 
   # Repositories and software development
@@ -71,6 +71,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+
+
 
 
 # Site Settings
@@ -261,7 +263,7 @@ defaults:
       share: true
       comment: true
   # _talks
-    - scope:
+  - scope:
       path: ""
       type: talks
     values:
