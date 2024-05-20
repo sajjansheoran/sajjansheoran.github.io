@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Research enthusiast"
   location         : "Delhi"
-  employer         : "Indian Institute of Technology Delhi"
+  employer         : "IIT Delhi"
   uri              : # URL
   email            : "sajjans36@gmail.com" 
 
@@ -261,7 +261,7 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
+    - scope:
       path: ""
       type: talks
     values:
