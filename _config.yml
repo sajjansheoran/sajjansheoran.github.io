@@ -22,7 +22,7 @@ repository               : "academicpage/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sajjan Sheroan"
+  name             : "Sajjan Sheoran"
   pronouns         : # example: "she/her"  
   bio              : "Research enthusiast"
   location         : "Delhi"
@@ -48,8 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : https://www.facebook.com/sheoran.sajjan/
+  facebook         : sheoran.sajjan
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
