@@ -22,7 +22,7 @@ Work experience
   * Duties includes: Performing research on condensed matter, Present results in talks at conferences, Participating in development of manuscripts and reports, Performing teaching assistanship,  Writing and defending Phd thesis.
   * Supervisor: Prof. Saswata Bhattacharya
 
-* : Aug 2018- Jun 2019: Project fellow
+* Aug 2018- Jun 2019: Project fellow
   * Indian Institute of Technology Gandhinagar
   * Duties included: Performing research on <i>hidden variable theory</i> to measure the quantumness in spin-1/2 particles.
   * Supervisor: Prof. Ravinder R Puri
