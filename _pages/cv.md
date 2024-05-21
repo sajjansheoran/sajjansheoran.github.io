@@ -29,7 +29,7 @@ Work experience
 
 Skills
 ======
-* Electronic structure (Density functional, <i>k.p <i/>perturbation and tight-binding methods), density functional perturbation theory, many-body perturbation theory, Molecular dyanmics
+* Electronic structure (Density functional, <i>k.p<i/> perturbation and tight-binding methods), density functional perturbation theory, many-body perturbation theory, Molecular dyanmics
   * Packages: VASP, Quantum ESPRESSO, Phono3py, Wannier90, WannierTools
   * Languages: Python, Mathematica, C++, Bash Shell Scripting
   * Tools:  Jupyter, Materials Studio, Gnuplot, XmGrace, p4vasp, Vesta, VMD, XCrySDen, LaTeX
