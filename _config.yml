@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sajjan Sheoran / Academic Website"
+title                    : "Sajjan Sheoran"
 title_separator          : "-"
 name                     : &name "Sajjan Sheoran"
 description              : &description "personal description"
