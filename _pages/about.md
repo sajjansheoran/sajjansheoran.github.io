@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Welcome to the homepage of Sajjan Sheoran"
 author_profile: true
 redirect_from: 
   - /about/
