@@ -1,6 +1,9 @@
 ---
 ---
+@charset "utf-8";
 
+// Dimensions
+$max-content-width: {{ site.max_width }};
 
 /*
  *    Minimal Mistakes Jekyll Theme
