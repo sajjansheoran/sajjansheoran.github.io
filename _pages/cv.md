@@ -24,7 +24,7 @@ Work experience
 
 * Aug 2018- Jun 2019: Project fellow
   * Indian Institute of Technology Gandhinagar
-  * Duties included: Performing research on <i>hidden variable theory</i> to measure the quantumness in spin-1/2 particles.
+  * Project: <i>"Local Hidden Variables and Nonclassicality in System of Spin-1/2 Particles."</i>
   * Supervisor: Prof. Ravinder R Puri
 
 Skills

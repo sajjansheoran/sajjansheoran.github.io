@@ -5,7 +5,7 @@ excerpt: |
   <br/>
   <img src="/images/spintrans.jpg" alt="Magnetism Phases" width="400" />  
   <br/>
-  This figure is taken from book "<i>Handbook of Materials Modeling <i/>" by Springer.
+  This figure is taken from book "<i>Handbook of Materials Modeling </i>" by Springer.
 collection: portfolio
 ---
 
