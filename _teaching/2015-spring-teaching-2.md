@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant for PYL 567 (Atomic and Molecular Spectroscopy)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Indian Institute of Technology Delhi"
+date: 2021-01-01
+location: "Delhi, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course is designed for M.Sc. Physics students (approximately 60 students) at IIT Delhi with a focus on atomic and molecular physics. The duties of the Teaching Assistant include conducting 8 hours of tutorial classes per week for doubt solving, and assisting in the smooth administration of quizzes, assignments, final exams, and evaluations.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+No. of Instructors: 1; No of TAs- 1

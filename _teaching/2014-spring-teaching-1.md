@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant for PYL 101 (Quantum Mechanis and Electrodynamics)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2015-spring-teaching-1
+venue: "Indian Institute of Technology Delhi"
+date: 2020-01-01
+location: "Delhi, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course is designed for B.Tech. students at IIT Delhi to introduce them to preliminary Quantum Mechanics and Electrodynamics. With approximately 650 students, this course is essential for every B.Tech. student. The duties of the Teaching Assistant include conducting 8 hours of tutorial classes per week for doubt solving, and assisting in the smooth administration of quizzes, assignments, final exams, and evaluations.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+No. of Instructors- 6; No of TAs- 8

@@ -60,4 +60,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for reputed scientific journals: 
+  - Nature Communications
+  - Applied Physics Letters
+  - Physical Chemistry Chemical Physics
+  - Scientific Reports
