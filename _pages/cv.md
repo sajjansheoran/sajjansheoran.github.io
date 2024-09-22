@@ -11,12 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, Indian Institute of Technology Delhi, 2024 (expected)
+* Ph.D in Physics, Indian Institute of Technology Delhi, 2024.
 * M.Sc. in Physics, Indian Institute of Technology Gandhinagar, 2019
 * B.Sc.(H) in Physics, DDUC, University of Delhi, 2017
 
 Work experience
 ======
+* July 2024 - current: Research Associate
+  * Howard University
+  * Duties includes: Ab initio exploration of topological superconductivity.
+  * Supervisor: Prof. Pratibha Dev
+
 * Jan 2020- Jun 2024: Research Fellow
   * Indian Institute of Technology Delhi
   * Duties includes: Performing research on condensed matter, Present results in talks at conferences, Participating in development of manuscripts and reports, Performing teaching assistanship,  Writing and defending Phd thesis.
