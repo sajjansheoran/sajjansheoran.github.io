@@ -7,8 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+* **2025: [Government of Ireland Postdoctoral Fellowship](https://research.ie/funding/goipd/)**
+
+* **2025: [Marie Curie Seal of Excellence](https://marie-sklodowska-curie-actions.ec.europa.eu/)**
+
 * **Reviewer for Reputed Journals**
-  - **Journals:** [Nature Communications](https://www.nature.com/ncomms/), [Applied Physics Letters](https://aip.scitation.org/journal/apl), [Physical Chemistry Chemical Physics](https://pubs.rsc.org/en/journals/journalissues/cp), [Scientific Reports](https://www.nature.com/srep/)
+  - **Journals:** [Nature Communications](https://www.nature.com/ncomms/), [Physical Review Letters](https://journals.aps.org/prl/), [Physical Review B](https://journals.aps.org/prb/), [Applied Physics Letters](https://aip.scitation.org/journal/apl), [Applied Nano Materials](https://pubs.acs.org/journal/aanmf6), [Physical Chemistry Chemical Physics](https://pubs.rsc.org/en/journals/journalissues/cp), [Scientific Reports](https://www.nature.com/srep/)
 
 * **2022: [Best Poster Award by ACS](https://www.acs.org/)**
   - **Event:** [International Conference organized by the International Union of Materials Research Society (IUMRS-ICA 2022)](https://www.iumrs-ica2022.in/) at [IIT Jodhpur](https://www.iitj.ac.in/).
