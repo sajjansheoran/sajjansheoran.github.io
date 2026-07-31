@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* July 2024 - Oct 2025: Government of Ireland Postdoctoral Fellow
+* Nov. 2025 - present: Government of Ireland Postdoctoral Fellow
   * Trinity College Dublin, Ireland
   * Duties includes: Altermagnetic Tunnel Junctions
   * Supervisor: Prof. Stefano Sanvito
