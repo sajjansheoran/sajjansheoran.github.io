@@ -17,18 +17,23 @@ Education
 
 Work experience
 ======
-* July 2024 - current: Research Associate
-  * Howard University
+* July 2024 - Oct 2025: Government of Ireland Postdoctoral Fellow
+  * Trinity College Dublin, Ireland
+  * Duties includes: Altermagnetic Tunnel Junctions
+  * Supervisor: Prof. Stefano Sanvito
+
+* July 2024 - Oct 2025: Research Associate
+  * Howard University, Washington DC, USA
   * Duties includes: Ab initio exploration of topological superconductivity.
   * Supervisor: Prof. Pratibha Dev
 
 * Jan 2020- Jun 2024: Research Fellow
-  * Indian Institute of Technology Delhi
+  * Indian Institute of Technology Delhi, India
   * Duties includes: Performing research on condensed matter, Present results in talks at conferences, Participating in development of manuscripts and reports, Performing teaching assistanship,  Writing and defending Phd thesis.
   * Supervisor: Prof. Saswata Bhattacharya
 
 * Aug 2018- Jun 2019: Project fellow
-  * Indian Institute of Technology Gandhinagar
+  * Indian Institute of Technology Gandhinagar, India
   * Project: <i>"Local Hidden Variables and Nonclassicality in System of Spin-1/2 Particles."</i>
   * Supervisor: Prof. Ravinder R Puri
 
